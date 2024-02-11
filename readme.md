@@ -31,7 +31,7 @@ These instructions will help you set up and run the frontend of your application
 
 ### Prerequisites
 
-List any prerequisites required to run the frontend. For example:
+Prerequisites required to run the frontend.
 
 - Node.js
 - React
