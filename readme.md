@@ -43,7 +43,7 @@ Prerequisites required to run the frontend.
 git clone https://github.com/Markos21/bookstore-frontend.git
 
 # Navigate to the project directory
-cd your-repo
+cd bookstore-frontend
 
 # Install project dependencies
 npm install
